@@ -1,0 +1,3 @@
+$('.operation-content').click(function () {
+    
+})
